@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 10px;
+    font-family: Helvetica;
+}
+body{
+    background-color: #399de2;
+}
+nav{
+    padding: 10px;
+}
+ul li{
+    font-size: 14px;
+    color: cornsilk;
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 16px;
+    float: right;
+    margin: 20px;
+    
+}
+#get {
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+#left{
+    font-size: 19px;
+    float: left;
+}
+
+div{
+    margin: 105px;
+    display: block;
+    width: 105%;
+    float: left;
+}
+p{
+    color: white;
+}
+#titulo{
+    font-size: 80px;
+}
+#cl{
+    vertical-align: middle;
+    justify-content: center;
+    width: 25%;
+    margin: center;
+    height: 500px;
+}
+
+#precio{
+    color: white;
+    border-radius: 25px;
+    background-color: #4ca746f6;
+    box-shadow: 5px 5px 14px 2px rgb(12 114 191 / 54%);
+    width: 25%;
+    padding: 10px;
+    float:left;
+    align-items: center;
+    border:0px;
+}
+
+#formulario{
+    background-color: white;
+    border-radius: 4px;
+    height: 470px;
+    width: 400px;
+    box-shadow: 1px 1px 18px 9px rgb(12 114 191 / 83%);
+}
+#formu{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+form{
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-right: 150px;
+}
+form input{
+    background-color: rgb(240, 236, 236);
+    border-radius: 5px;
+    width: 260px;
+    padding: 15px;
+    margin: 10px;
+    border: 0px;
+}
+#enviar{
+    margin-left: 50px;
+    margin-right: 50px;
+    color: white;
+    border-radius: 25px;
+    background-color: #167af6;
+    box-shadow: 5px 5px 14px 2px rgb(12 114 191 / 54%);
+    width: 75%;
+    padding: 11px;
+    float:center;
+    align-items: center;
+    border:0px;
+    font-size: 19px;
+}
+
+#super{
+    height: 500px;
+    width: 2500px;
+    float:none;
+    margin-right: auto;
+    margin-left: 10%;
+}
